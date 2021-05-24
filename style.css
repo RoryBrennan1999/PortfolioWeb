@@ -186,7 +186,7 @@ h2 {
 }
 
 .project-image {
-  height: calc(100% - 13rem);
+  height: calc(100% - 15rem);
   width: 100%;
   object-fit: cover;
 }
